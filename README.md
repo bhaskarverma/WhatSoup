@@ -37,7 +37,7 @@ _WhatsApp Chat with Bob Ross.txt_
 
 ## Demo
 
-[![Watch the video on YouTube](https://raw.githubusercontent.com/eddyharrington/WhatSoup/master/docs/demo.gif)](https://www.youtube.com/watch?v=F3lNYk8pPeQ)
+[![Watch the video on YouTube](https://github.com/bhaskarverma/WhatSoup/blob/6180247b56a1c3f44224b3b7a9b8ece1e71d4ab7/docs/demo.gif)](https://www.youtube.com/watch?v=F3lNYk8pPeQ)
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ _WhatsApp Chat with Bob Ross.txt_
 2. Clone the repo:
 
    ```
-   git clone https://github.com/eddyharrington/WhatSoup.git
+   git clone https://github.com/bhaskarverma/WhatSoup.git
    ```
 
 3. Create a virtual environment:
